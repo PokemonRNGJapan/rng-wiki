@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkrng_wiki=self.webpackChunkrng_wiki||[]).push([[19],{9241:function(a){a.exports=JSON.parse('{"allTagsPath":"/rng-wiki/blog/tags","name":"facebook","count":1,"permalink":"/rng-wiki/blog/tags/facebook"}')}}]);

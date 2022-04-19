@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkrng_wiki=self.webpackChunkrng_wiki||[]).push([[65],{3372:function(s){s.exports=JSON.parse('{"allTagsPath":"/rng-wiki/blog/tags","name":"docusaurus","count":4,"permalink":"/rng-wiki/blog/tags/docusaurus"}')}}]);
