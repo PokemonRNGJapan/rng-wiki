@@ -8,12 +8,12 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: 'ポケモン乱数調整Wiki',
   tagline: 'ポケモンの乱数調整コミュニティによるWiki',
-  url: 'https://mizuyoukanao.github.io',
+  url: 'https://pokemonrngjapan.github.io',
   baseUrl: '/rng-wiki/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/RNGicon.ico',
-  organizationName: 'mizuyoukanao', // Usually your GitHub org/user name.
+  organizationName: 'PokemonRNGJapan', // Usually your GitHub org/user name.
   projectName: 'rng-wiki', // Usually your repo name.
 
   i18n: {
@@ -35,13 +35,13 @@ const config = {
         docs: {
           sidebarPath: require.resolve('./sidebars.js'),
           // Please change this to your repo.
-          editUrl: 'https://github.com/mizuyoukanao/rng-wiki/blob/main',
+          editUrl: 'https://github.com/PokemonRNGJapan/rng-wiki/blob/main',
         },
         blog: {
           showReadingTime: true,
           // Please change this to your repo.
           editUrl:
-            'https://github.com/mizuyoukanao/rng-wiki',
+            'https://github.com/PokemonRNGJapan/rng-wiki/blob/main',
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
@@ -68,7 +68,7 @@ const config = {
           },
           {to: '/blog', label: 'Blog', position: 'left'},
           {
-            href: 'https://github.com/mizuyoukanao/rng-wiki',
+            href: 'https://github.com/PokemonRNGJapan/rng-wiki',
             label: 'GitHub',
             position: 'right',
           },
@@ -104,7 +104,7 @@ const config = {
               },
               {
                 label: 'GitHub',
-                href: 'https://github.com/mizuyoukanao/rng-wiki',
+                href: 'https://github.com/PokemonRNGJapan/rng-wiki',
               },
             ],
           },
